@@ -1,4 +1,4 @@
 storyn
 ======
 
-storynDev
+StoryN Dev Project
